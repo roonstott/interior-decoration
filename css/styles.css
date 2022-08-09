@@ -1,0 +1,12 @@
+body {
+  background-color: purple;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
+
+h3 {
+  font-size: 20px;
+}
